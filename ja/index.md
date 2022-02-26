@@ -2,6 +2,8 @@
 
 このサイトは次世代ソーシャルメディア枠組ワーキンググループ (NSFWg; Next-generation Social-media Frameworks Working Group) のホームページです。
 
+このワーキンググループでは，次世代の SNS に向けた基礎研究，研究開発や調査などを行います。
+
 ## 過去の研究成果
 
 @metastable-void:
