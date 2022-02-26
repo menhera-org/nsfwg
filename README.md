@@ -3,6 +3,8 @@ Next-generation Social-media Frameworks Working Group
 
 A working group at [Menhera.org](https://www.menhera.org/).
 
+![Logo](logo.png)
+
 [日本語](ja/)
 
 ## Member
