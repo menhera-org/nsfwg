@@ -1,7 +1,9 @@
 # NSFWg
 Next-generation Social-media Frameworks Working Group
 
-[Menhera.org](https://www.menhera.org/)
+A working group at [Menhera.org](https://www.menhera.org/).
+
+[日本語](ja/)
 
 ## Member
 
