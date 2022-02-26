@@ -1,4 +1,4 @@
-# nsfwg
+# NSFWg
 Next-generation Social-media Frameworks Working Group
 
 [Menhera.org](https://www.menhera.org/)
